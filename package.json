@@ -4,7 +4,7 @@
   "description": "Read a protobuf schema from the disk, parse it and resolve all imports",
   "main": "index.js",
   "dependencies": {
-    "protobuf-schema": "^1.2.0"
+    "protobuf-schema": "1.5.0-20150326T115652.gitef94421"
   },
   "devDependencies": {
     "tape": "^3.0.0"
